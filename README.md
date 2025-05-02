@@ -32,8 +32,6 @@ O objetivo é criar uma **solução interativa** que ajuda a entender melhor o p
 
 ---
 
-## 🚀 Como Executar o Projeto
-
 ### 1️⃣ Clone o repositório
 
 ```bash
