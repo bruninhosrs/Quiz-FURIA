@@ -35,4 +35,4 @@ O objetivo é criar uma **solução interativa** que ajuda a entender melhor o p
 ### 1️⃣ Clone o repositório
 
 ```bash
-git clone https://github.com/bruninhosrs/Quiz-FURIA
+git clone https://github.com/bruninhosrs/Quiz-FURIA.git
