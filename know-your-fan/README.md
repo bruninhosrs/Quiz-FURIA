@@ -3,6 +3,7 @@
 Este projeto faz parte do desafio **Challenge #2 - Know Your Fan**, proposto pela FURIA Esports.
 
 O objetivo é criar uma **solução interativa** que ajuda a entender melhor o perfil dos fãs da FURIA, coletando dados pessoais e de engajamento, e retornando um perfil personalizado.
+👉 **Deploy online:** https://quiz-furia-lev4.vercel.app/
 
 ---
 
